@@ -99,18 +99,14 @@ This project doesn't require any other libraries.
 The project structure will be:
 
 
-```text
 
-
-Number-Guessing-System/
-
+Python-utility-for-number-guessing-game
 │
+├── Python_utility_for_number_guessing.ipynb
+├── README.md
+└── statement.md
 
-├── main.py
-
-└── README.md
-
-main.py contains the python program and README.md contains the project details.
+.ipynb contains the python program and README.md , statement.md contains the project details.
 
 
 
