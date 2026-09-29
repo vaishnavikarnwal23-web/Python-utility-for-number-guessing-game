@@ -419,12 +419,12 @@ Screenshots
 
 1. Difficulty Selection
 
-[Difficulty Selection](Screenshot%20(1).png)
+[Difficulty Selection](Screenshot%20(15).png)
 
  2. Guessing and Hints
 
-[Guessing and Hints](Screenshot%20(2).png)
+[Guessing and Hints](Screenshot%20(16).png)
 
  3. Successful Guess and Score
 
-[Successful Guess](Screenshot%20(3).png)
+[Successful Guess](Screenshot%20(17).png)
