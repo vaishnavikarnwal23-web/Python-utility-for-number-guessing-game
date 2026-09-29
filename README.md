@@ -412,3 +412,19 @@ The Number Guessing System is a small program built to practice some of the basi
 
 
 I learned how functions, loops, conditions, input validation, exception handling, and random numbers all come together to build this small game. There are many ways to improve and build upon this game, such as adding more levels or a timer.
+
+
+
+Screenshots
+
+1. Difficulty Selection
+
+[Difficulty Selection](Screenshot%20(1).png)
+
+ 2. Guessing and Hints
+
+[Guessing and Hints](Screenshot%20(2).png)
+
+ 3. Successful Guess and Score
+
+[Successful Guess](Screenshot%20(3).png)
